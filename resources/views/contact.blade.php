@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Register</title>
+    <title>Contact</title>
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -32,33 +32,25 @@
 </nav>
     <div class="container">
     <div class="row">
-    <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
-    </div>
-    <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+    <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
     <table class="table table-borderless">
     <tr>
         <td>Name</td>
-        <td><input type="text" class="form-control"> </td>
-    </tr>
-    <tr>
-        <td>Roll.No</td>
         <td><input type="text" class="form-control"></td>
     </tr>
     <tr>
-        <td>Admn.No</td>
-        <td><input type="text" class="form-control"></td>
+        <td>Message</td>
+        <td><textarea name="" id="" cols="10" rows="5" class="form-control"></textarea></td>
     </tr>
     <tr>
-        <td>College</td>
-        <td><input type="text" class="form-control"></td>
+        <td>Phone No</td>
+        <td><input type="text" class="from-control"></td>
     </tr>
     <tr>
         <td></td>
-        <td><button class="btn btn-primary">Submit</button></td>
+        <td><button class="btn btn-info">Submit</button></td>
     </tr>
     </table>
-    </div>
-    <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
     </div>
     </div>
     </div>
